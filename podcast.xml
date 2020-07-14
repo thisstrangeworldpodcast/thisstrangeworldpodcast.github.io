@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version='2.0' xmlns:content='http://purl.org/rss/1.0/modules/content/' xmlns:itunes='http://www.itunes.com/dtds/podcast-1.0.dtd'>
+    <channel>
+        <language>en-US</language>
+        <copyright>Copyright 2020 Gavin Berger, Leah Ettinger, and Chris Ashe</copyright>
+        <title>This Strange World</title>
+        <description><![CDATA[<p>The world is a strange place. From creepy conspiracy theories, to weird laws, to terrifying cults, this podcast explores them all. Each week, one of our hosts takes a deep dive into a strange, weird, and random topic, and discusses what they found with the other hosts.</p> <p>Gavin, Leah, and Chris are three college students who started This Strange World as a project for class, but became so interested in learning more about strange topics that they decided to make it for real. Join them on their journey as they try to make sense of This Strange World.</p>
+]]></description>
+        <link>https://www.thisstrangeworldpodcast.com/</link>
+		
+        <itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason1.png'/>
+        
+		<itunes:category text='Society &amp; Culture'/>
+		
+		<itunes:author>Gavin Berger, Leah Ettinger, and Chris Ashe</itunes:author>
+        <itunes:owner>
+            <itunes:name>This Strange World Podcast Administrator</itunes:name>
+            <itunes:email>admin@thisstrangeworldpodcast.com</itunes:email>
+        </itunes:owner>
+		
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:type>episodic</itunes:type>
+        <item>
+            <title>Introducing This Strange World</title>
+            <enclosure url='https://thisstrangeworldpodcast.s3.us-west-002.backblazeb2.com/TSW_S1_00_Trailer1.mp3' length='3675724' type=''/>
+			<guid>2020-07-14-Trailer1</guid>
+            <pubDate>Tue, 14 Jul 2020 19:10:00 -0400</pubDate>
+            <description><![CDATA[<p>Gavin, Leah, and Chris begin their journey to make sense of This Strange World.</p>
+]]></description>
+            <itunes:duration>150</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2020/07/14/Trailer1/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason1.png'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>0</itunes:episode>
+			<itunes:season>1</itunes:season>
+            <itunes:episodeType>trailer</itunes:episodeType>
+        </item>
+    </channel>
+</rss>
