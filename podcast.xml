@@ -22,7 +22,7 @@
         <itunes:type>episodic</itunes:type>
         <item>
             <title>Introducing This Strange World</title>
-            <enclosure url='https://thisstrangeworldpodcast.s3.us-west-002.backblazeb2.com/TSW_S1_00_Trailer1.mp3' length='3675724' type=''/>
+            <enclosure url='https://thisstrangeworldpodcast.s3.us-west-002.backblazeb2.com/TSW_S1_00_Trailer1.mp3' length='3675724' type='audio/mpeg'/>
 			<guid>2020-07-14-Trailer1</guid>
             <pubDate>Tue, 14 Jul 2020 19:10:00 -0400</pubDate>
             <description><![CDATA[<p>Gavin, Leah, and Chris begin their journey to make sense of This Strange World.</p>
