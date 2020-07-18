@@ -21,6 +21,78 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Titanic Conspiracy Theories</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_02_Titanic.mp3' length='38132034' type='audio/mpeg'/>
+			<guid>2020-07-18-Titanic</guid>
+            <pubDate>Sat, 18 Jul 2020 00:00:50 -0400</pubDate>
+            <description><![CDATA[<p>For our first conspiracy theory episode, Leah talks about some Titanic conspiracy theories, while Chris and Gavin provide some pretty solid banter and ask clarifying questions.</p>
+
+<h1 id="sources">Sources</h1>
+
+<p>https://www.history.com/news/titanic-sinking-conspiracy-myths-jp-morgan-olympic<br />
+https://youtu.be/4pywFRpEcZA<br />
+https://en.wikipedia.org/wiki/RMS_Titanic_conspiracy_theories</p>
+]]></description>
+            <itunes:duration>1590</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2020/07/18/Titanic/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason1.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>2</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
+            <title>The Jonestown Cult</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_03_Jonestown.mp3' length='57927302' type='audio/mpeg'/>
+			<guid>2020-07-18-Jonestown</guid>
+            <pubDate>Sat, 18 Jul 2020 00:00:50 -0400</pubDate>
+            <description><![CDATA[<p>This episode contains strong themes and may be not suitable for younger listeners.</p>
+
+<p>Chris shares his research on the Jonestown cult with Gavin and Leah for our first episode about cults. (Hint: Don’t drink the Kool-Aid.)</p>
+
+<h1 id="sources">Sources</h1>
+
+<p>https://youtu.be/xNY2yGA1fNQ<br />
+https://youtu.be/VWqACvTknls<br />
+https://abcn.ws/2QhwAfh<br />
+https://abcn.ws/2zDh87U<br />
+https://abcn.ws/2zDEvOu<br />
+https://abcn.ws/2xXe4S4</p>
+]]></description>
+            <itunes:duration>2416</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2020/07/18/Jonestown/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason1.jpg'/>
+            <itunes:explicit>true</itunes:explicit>
+			
+			<itunes:episode>3</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
+            <title>Animal Laws</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_01_Animal-Laws.mp3' length='64728720' type='audio/mpeg'/>
+			<guid>2020-07-18-Animal-Laws</guid>
+            <pubDate>Sat, 18 Jul 2020 00:00:50 -0400</pubDate>
+            <description><![CDATA[<p>For our first episode, Gavin brings some weird animal laws from around the world to discuss with Leah and Chris. (No animals were harmed in the making of this episode, although some may be insulted.)</p>
+
+<h1 id="sources">Sources</h1>
+
+<p>https://www.pawculture.com/for-fun/weird-pet-news/the-weirdest-animal-laws-in-america/<br />
+https://dogtime.com/reference/dog-laws/19486-12-strange-animal-laws<br />
+https://www.entirelypets.com/odd-animal-laws.html<br />
+https://bitrebels.com/lifestyle/40-strangest-pet-laws-around-world/</p>
+]]></description>
+            <itunes:duration>2700</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2020/07/18/Animal-Laws/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason1.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>1</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>Introducing This Strange World</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_00_Trailer1.mp3' length='3675724' type='audio/mpeg'/>
 			<guid>2020-07-14-Trailer1</guid>
