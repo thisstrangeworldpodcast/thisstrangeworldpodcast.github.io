@@ -21,32 +21,10 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
-            <title>Titanic Conspiracy Theories</title>
-            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_02_Titanic.mp3' length='38132034' type='audio/mpeg'/>
-			<guid>2020-07-18-Titanic</guid>
-            <pubDate>Sat, 18 Jul 2020 00:00:50 -0400</pubDate>
-            <description><![CDATA[<p>For our first conspiracy theory episode, Leah talks about some Titanic conspiracy theories, while Chris and Gavin provide some pretty solid banter and ask clarifying questions.</p>
-
-<h1 id="sources">Sources</h1>
-
-<p>https://www.history.com/news/titanic-sinking-conspiracy-myths-jp-morgan-olympic<br />
-https://youtu.be/4pywFRpEcZA<br />
-https://en.wikipedia.org/wiki/RMS_Titanic_conspiracy_theories</p>
-]]></description>
-            <itunes:duration>1590</itunes:duration>
-            <link>https://www.thisstrangeworldpodcast.com/2020/07/18/Titanic/</link>
-			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason1.jpg'/>
-            <itunes:explicit>false</itunes:explicit>
-			
-			<itunes:episode>2</itunes:episode>
-			<itunes:season>1</itunes:season>
-            
-        </item>
-        <item>
             <title>The Jonestown Cult</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_03_Jonestown.mp3' length='57927302' type='audio/mpeg'/>
 			<guid>2020-07-18-Jonestown</guid>
-            <pubDate>Sat, 18 Jul 2020 00:00:50 -0400</pubDate>
+            <pubDate>Sat, 18 Jul 2020 00:00:53 -0400</pubDate>
             <description><![CDATA[<p>This episode contains strong themes and may be not suitable for younger listeners.</p>
 
 <p>Chris shares his research on the Jonestown cult with Gavin and Leah for our first episode about cults. (Hint: Don’t drink the Kool-Aid.)</p>
@@ -66,6 +44,28 @@ https://abcn.ws/2xXe4S4</p>
             <itunes:explicit>true</itunes:explicit>
 			
 			<itunes:episode>3</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
+            <title>Titanic Conspiracy Theories</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_02_Titanic.mp3' length='38132034' type='audio/mpeg'/>
+			<guid>2020-07-18-Titanic</guid>
+            <pubDate>Sat, 18 Jul 2020 00:00:51 -0400</pubDate>
+            <description><![CDATA[<p>For our first conspiracy theory episode, Leah talks about some Titanic conspiracy theories, while Chris and Gavin provide some pretty solid banter and ask clarifying questions.</p>
+
+<h1 id="sources">Sources</h1>
+
+<p>https://www.history.com/news/titanic-sinking-conspiracy-myths-jp-morgan-olympic<br />
+https://youtu.be/4pywFRpEcZA<br />
+https://en.wikipedia.org/wiki/RMS_Titanic_conspiracy_theories</p>
+]]></description>
+            <itunes:duration>1590</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2020/07/18/Titanic/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason1.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>2</itunes:episode>
 			<itunes:season>1</itunes:season>
             
         </item>
