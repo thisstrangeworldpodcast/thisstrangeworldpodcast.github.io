@@ -21,6 +21,27 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Bizarre Tourist Attractions</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_04_Tourist-Attractions.mp3' length='50343094' type='audio/mpeg'/>
+			<guid>2020-07-25-Tourist-Attractions</guid>
+            <pubDate>Sat, 25 Jul 2020 00:01:30 -0400</pubDate>
+            <description><![CDATA[<p>Gavin talks about some of the most bizarre tourist attractions in the world while Chris and Leah guess where they are. Play along at home! (Hint: None of them are in South America, but that doesn’t stop Leah from always guessing there.)</p>
+
+<h1 id="sources">Sources</h1>
+
+<p>http://tripstodiscover.com/22-of-the-worlds-most-bizarre-tourist-attractions/<br />
+https://www.cntraveler.com/galleries/2014-04-25/wacky-tourist-attractions/</p>
+]]></description>
+            <itunes:duration>2100</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2020/07/25/Tourist-Attractions/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason1.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>4</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>The Jonestown Cult</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_03_Jonestown.mp3' length='57927302' type='audio/mpeg'/>
 			<guid>2020-07-18-Jonestown</guid>
