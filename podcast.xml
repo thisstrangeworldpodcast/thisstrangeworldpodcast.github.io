@@ -21,6 +21,30 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>SCP Foundation Part 1</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_05_SCPs-Part-1.mp3' length='57532192' type='audio/mpeg'/>
+			<guid>2020-07-29-SCPs-Part-1</guid>
+            <pubDate>Wed, 29 Jul 2020 00:02:00 -0400</pubDate>
+            <description><![CDATA[<p>Leah discusses some of her favorite spooky SCPs while Gavin and Chris accept that they will never fall asleep peacefully again. (Hint: Don’t listen to this late at night.)</p>
+
+<h1 id="sources">Sources</h1>
+
+<p>http://www.scp-wiki.net/<br />
+https://en.wikipedia.org/wiki/SCP_Foundation<br />
+https://youtu.be/ZUFIxk5rtbQ<br />
+https://youtu.be/yeYc4rEjJW4</p>
+
+]]></description>
+            <itunes:duration>2400</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2020/07/29/SCPs-Part-1/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason1.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>5</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>Bizarre Tourist Attractions</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_04_Tourist-Attractions.mp3' length='50343094' type='audio/mpeg'/>
 			<guid>2020-07-25-Tourist-Attractions</guid>
