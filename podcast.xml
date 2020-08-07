@@ -21,6 +21,36 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Overhyped: Fallout 76</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_06_Overhyped-Fallout-76.mp3' length='77671009' type='audio/mpeg'/>
+			<guid>2020-08-07-Overhyped-Fallout-76</guid>
+            <pubDate>Fri, 07 Aug 2020 00:02:00 -0400</pubDate>
+            <description><![CDATA[<p>For our first Overhyped episode, we talk about the famous video game flop, Fallout 76. Chris brings all the details as Gavin and Leah are left in disbelief at each embarrassing mistake the game developers make. (Hint: There’s a lot.)</p>
+
+<h1 id="sources">Sources</h1>
+
+<p>https://youtu.be/kjyeCdd-dl8<br />
+https://youtu.be/T6HdBplLmuU<br />
+https://www.reddit.com/r/fo76/comments/9n32zk/why_is_76_selling_so_little_preorders/<br />
+https://www.reddit.com/r/fo76/comments/a12ufb/my_level_78_character_was_deleted_randomly/<br />
+https://www.reddit.com/r/fo76/comments/amyyl5/bethesda_games_austin/<br />
+https://www.pcgamer.com/fallout-76-player-who-spent-900-hours-in-game-says-theyve-been-banned/<br />
+https://kotaku.com/200-fallout-76-edition-promised-fancy-bag-delivers-ny-1830724582<br />
+https://www.altchar.com/game-news/fallout-76s-80-nuka-dark-bottles-are-made-of-plastic-aRypX7n2fQTS<br />
+https://youtu.be/SjrDbSgB9IU<br />
+https://www.eurogamer.net/articles/2018-11-20-fallout-76-review-a-bizarre-boring-and-broken-mess<br />
+https://www.gamezone.com/reviews/review-fallout-76/</p>
+]]></description>
+            <itunes:duration>3240</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2020/08/07/Overhyped-Fallout-76/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason1.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>6</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>SCP Foundation Part 1</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_05_SCPs-Part-1.mp3' length='57532192' type='audio/mpeg'/>
 			<guid>2020-07-29-SCPs-Part-1</guid>
