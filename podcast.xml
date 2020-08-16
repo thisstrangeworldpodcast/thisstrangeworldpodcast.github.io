@@ -21,6 +21,29 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Worst Shark Tank Pitches</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_07_Worst-Shark-Tank-Pitches.mp3' length='110735623' type='audio/mpeg'/>
+			<guid>2020-08-16-Worst-Shark-Tank-Pitches</guid>
+            <pubDate>Sun, 16 Aug 2020 00:03:30 -0400</pubDate>
+            <description><![CDATA[<p>Gavin brings in some of the worst Shark Tank pitches to discuss as Chris and Leah need to decide whether they’re in or out. Plus, our friend Tony stops by to discuss his experience buying an invention from Shark Tank. We also throw in a few of the best Shark Tank pitches at the end to prove it’s not all bad. (Hint: As Mark Cuban says, “Follow the green, not the dream”.)</p>
+
+<h1 id="sources">Sources</h1>
+
+<p>Sources:
+https://www.businessinsider.com/worst-shark-tank-pitches-2015-9
+https://screenrant.com/shark-tank-best-worst-pitches-passed-on/
+https://www.investopedia.com/articles/investing/082415/10-most-successful-products-shark-tank.asp</p>
+]]></description>
+            <itunes:duration>4620</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2020/08/16/Worst-Shark-Tank-Pitches/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason1.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>7</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>Overhyped: Fallout 76</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_06_Overhyped-Fallout-76.mp3' length='77671009' type='audio/mpeg'/>
 			<guid>2020-08-07-Overhyped-Fallout-76</guid>
