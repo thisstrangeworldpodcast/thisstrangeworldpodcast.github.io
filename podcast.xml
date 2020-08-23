@@ -21,6 +21,31 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Bizarre Phone Apps</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_08_Bizarre-Phone-Apps.mp3' length='81977939' type='audio/mpeg'/>
+			<guid>2020-08-23-Bizarre-Phone-Apps</guid>
+            <pubDate>Sun, 23 Aug 2020 00:03:50 -0400</pubDate>
+            <description><![CDATA[<p>Leah discusses some of the most bizarre phone apps while Gavin and Chris try to rationalize the need for them. Plus, our friend Reilly joins us to give his take on these wacky apps. A lot of laughs are shared, so don’t miss out, because this is definitely our funniest episode yet! (Hint: Apparently, novelty doesn’t mean useless when referring to apps.)</p>
+
+<h1 id="sources">Sources</h1>
+
+<p>https://www.shortlist.com/news/iphones-worst-apps-apple-birthday<br />
+https://www.indy100.com/article/the-top-10-worst-apps-of-all-time–ZyKQnSXGPx<br />
+http://entm.ag/2aG2W4n<br />
+https://economictimes.indiatimes.com/8-utterly-useless-apps-you-can-have-fun-with/slideshow/59047599.cms<br />
+https://www.insider.com/pointless-funny-iphone-and-android-apps-2017-5</p>
+
+]]></description>
+            <itunes:duration>3420</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2020/08/23/Bizarre-Phone-Apps/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason1.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>8</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>Worst Shark Tank Pitches</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_07_Worst-Shark-Tank-Pitches.mp3' length='110735623' type='audio/mpeg'/>
 			<guid>2020-08-16-Worst-Shark-Tank-Pitches</guid>
@@ -29,9 +54,8 @@
 
 <h1 id="sources">Sources</h1>
 
-<p>Sources:
-https://www.businessinsider.com/worst-shark-tank-pitches-2015-9
-https://screenrant.com/shark-tank-best-worst-pitches-passed-on/
+<p>https://www.businessinsider.com/worst-shark-tank-pitches-2015-9<br />
+https://screenrant.com/shark-tank-best-worst-pitches-passed-on/<br />
 https://www.investopedia.com/articles/investing/082415/10-most-successful-products-shark-tank.asp</p>
 ]]></description>
             <itunes:duration>4620</itunes:duration>
