@@ -21,6 +21,32 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Heaven's Gate</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_09_Heavens-Gate.mp3' length='72627012' type='audio/mpeg'/>
+			<guid>2020-08-30-Heavens-Gate</guid>
+            <pubDate>Sun, 30 Aug 2020 00:02:30 -0400</pubDate>
+            <description><![CDATA[<p>This episode contains strong themes and may be not suitable for younger listeners.</p>
+
+<p>For our second cult episode, Chris shares his research on the American UFO religious cult, Heaven’s Gate, while Gavin and Leah are baffled by the cult’s ‘90s website. (Hint: Don’t eat the applesauce.)</p>
+
+<h1 id="sources">Sources</h1>
+
+<p>http://www.heavensgate.com/<br />
+https://youtu.be/o9wLAJD_RYI<br />
+https://youtu.be/AqSZhwu1Rwo<br />
+http://www.deathreference.com/Gi-Ho/Heaven-s-Gate.html<br />
+https://en.wikipedia.org/wiki/Heaven%27s_Gate_(religious_group)</p>
+]]></description>
+            <itunes:duration>3030</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2020/08/30/Heavens-Gate/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason1.jpg'/>
+            <itunes:explicit>true</itunes:explicit>
+			
+			<itunes:episode>9</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>Bizarre Phone Apps</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_08_Bizarre-Phone-Apps.mp3' length='81977939' type='audio/mpeg'/>
 			<guid>2020-08-23-Bizarre-Phone-Apps</guid>
