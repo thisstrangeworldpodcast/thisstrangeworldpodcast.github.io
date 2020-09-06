@@ -21,6 +21,45 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>The 27 Club</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_10_The-27-Club.mp3' length='121765584' type='audio/mpeg'/>
+			<guid>2020-09-06-The-27-Club</guid>
+            <pubDate>Sun, 06 Sep 2020 00:03:23 -0400</pubDate>
+            <description><![CDATA[<p>This episode contains strong themes and may not be suitable for younger listeners.</p>
+
+<p>Gavin discusses his research on The 27 Club, a conspiracy theory that connects the deaths of dozens of young popular musicians, artists, actors, and athletes who have died at age 27, often as a result of drug and alcohol abuse or violent means such as homicide, suicide, or transportation-related accidents. Definitely our darkest episode yet. (Hint: You should probably listen to this episode during the daytime.)</p>
+
+<h1 id="mental-health-resources">Mental Health Resources</h1>
+
+<p>Call the National Suicide Prevention Lifeline (https://suicidepreventionlifeline.org/) at 1-800-273-TALK (8255), or text the Crisis Text Line (text HELLO to 741741). Both services are free and available 24 hours a day, seven days a week. The deaf and hard of hearing can contact the Lifeline via TTY at 1-800-799-4889. All calls are confidential. Contact social media outlets directly if you are concerned about a friend’s social media updates or dial 911 in an emergency.</p>
+
+<p>SAMHSA’s (Substance Abuse and Mental Health Services Administration; https://www.samhsa.gov/) National Helpline, 1-800-662-HELP (4357), (also known as the Treatment Referral Routing Service) or TTY: 1-800-487-4889 is a confidential, free, 24-hour-a-day, 365-day-a-year, information service, in English and Spanish, for individuals and family members facing mental and/or substance use disorders. This service provides referrals to local treatment facilities, support groups, and community-based organizations.</p>
+
+<p>National Institute of Mental Health - https://www.nimh.nih.gov/</p>
+
+<p>Mental Health Resources - http://www.mhresources.org/</p>
+
+<p>National Alliance on Mental Illness - https://www.nami.org/</p>
+
+<h1 id="sources">Sources</h1>
+
+<p>https://www.rollingstone.com/culture/culture-lists/the-27-club-a-brief-history-17853/robert-johnson-26971/
+https://www.history.com/news/music-legends-who-lived-fast-and-died-at-27-slideshow
+https://happymag.tv/why-are-we-obsessed-with-the-27-club/
+https://theconversation.com/the-27-club-is-a-myth-56-is-the-bum-note-for-musicians-33586
+https://www.history.com/news/curse-of-27-or-is-it-only-rock-n-roll
+https://en.wikipedia.org/wiki/White_lighter_myth</p>
+]]></description>
+            <itunes:duration>5080</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2020/09/06/The-27-Club/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason1.jpg'/>
+            <itunes:explicit>true</itunes:explicit>
+			
+			<itunes:episode>10</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>Heaven's Gate</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_09_Heavens-Gate.mp3' length='72627012' type='audio/mpeg'/>
 			<guid>2020-08-30-Heavens-Gate</guid>
