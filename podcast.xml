@@ -21,6 +21,31 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>The Mandela Effect</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_13_The-Mandela-Effect.mp3' length='90635704' type='audio/mpeg'/>
+			<guid>2020-09-25-The-Mandela-Effect</guid>
+            <pubDate>Fri, 25 Sep 2020 00:04:00 -0400</pubDate>
+            <description><![CDATA[<p>Gavin brings in some mind bending examples of one of his favorite conspiracy theories, The Mandela Effect, while Leah tries not to fall into a parallel dimension and Chris reevaluates his life. (Hint: This episode may cause you to reconsider everything you once knew to be real.)</p>
+
+<h1 id="sources">Sources</h1>
+
+<p>https://www.verywellmind.com/what-is-the-mandela-effect-4589394<br />
+http://www.scholarpedia.org/article/False_memory<br />
+https://www.healthline.com/health/mental-health/mandela-effect<br />
+https://www.mentalfloss.com/article/585887/mandela-effect-examples<br />
+https://www.buzzfeed.com/christopherhudspeth/crazy-examples-of-the-mandela-effect-that-will-make-you-ques<br />
+https://www.youtube.com/watch?v=04854XqcfCY</p>
+]]></description>
+            <itunes:duration>3780</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2020/09/25/The-Mandela-Effect/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason1.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>13</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>Bizarre Natural Phenomena</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_12_Bizarre-Natural-Phenomena.mp3' length='108958237' type='audio/mpeg'/>
 			<guid>2020-09-18-Bizarre-Natural-Phenomena</guid>
