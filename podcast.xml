@@ -21,6 +21,32 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>SCP Foundation Part 2</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_14_SCP-Foundation-Part-2.mp3' length='71232772' type='audio/mpeg'/>
+			<guid>2020-09-30-SCP-Foundation-Part-2</guid>
+            <pubDate>Wed, 30 Sep 2020 00:05:00 -0400</pubDate>
+            <description><![CDATA[<p>This episode contains strong themes and may not be suitable for younger listeners.</p>
+
+<p>Leah discusses some more of her favorite spooky SCPs in our second SCP Foundation episode, while Gavin and Chris try to rationalize these loveable yet scary creations. (Hint: You probably shouldn’t listen to this one late at night either.)</p>
+
+<h1 id="sources">Sources</h1>
+
+<p>https://scpcb.gamepedia.com/<br />
+http://www.scp-wiki.net/<br />
+https://en.wikipedia.org/wiki/SCP_Foundation<br />
+http://www.scpwiki.com/scp-1544/comments/show<br />
+http://www.scpwiki.com/scp-4999</p>
+]]></description>
+            <itunes:duration>2970</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2020/09/30/SCP-Foundation-Part-2/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason1.jpg'/>
+            <itunes:explicit>true</itunes:explicit>
+			
+			<itunes:episode>14</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>The Mandela Effect</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_13_The-Mandela-Effect.mp3' length='90635704' type='audio/mpeg'/>
 			<guid>2020-09-25-The-Mandela-Effect</guid>
@@ -269,7 +295,7 @@ https://youtu.be/yeYc4rEjJW4</p>
 
 ]]></description>
             <itunes:duration>2400</itunes:duration>
-            <link>https://www.thisstrangeworldpodcast.com/2020/07/29/SCPs-Part-1/</link>
+            <link>https://www.thisstrangeworldpodcast.com/2020/07/29/SCP-Foundation-Part-1/</link>
 			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason1.jpg'/>
             <itunes:explicit>false</itunes:explicit>
 			
