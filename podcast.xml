@@ -21,6 +21,32 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Bizarre Man-Made Disasters</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_15_Bizarre-Man-Made-Disasters.mp3' length='85250640' type='audio/mpeg'/>
+			<guid>2020-10-08-Bizarre-Man-Made-Disasters</guid>
+            <pubDate>Thu, 08 Oct 2020 00:15:30 -0400</pubDate>
+            <description><![CDATA[<p>Chris brings some bizarre man-made disasters to discuss after having so much fun with the bizarre natural phenomena episode, while Gavin and Leah try to comprehend just how horrible humanity truly is. (Hint: Humanity needs to be nicer to the environment.)</p>
+
+<h1 id="sources">Sources</h1>
+
+<p>https://youtu.be/RMNo7IwwXDQ<br />
+https://www.businessinsider.com/the-biggest-man-made-disasters-2019-5<br />
+https://www.bu.edu/sustainability/minamata-disease/<br />
+https://www.nrdc.org/stories/flint-water-crisis-everything-you-need-know<br />
+https://www.world-nuclear.org/information-library/safety-and-security/safety-of-plants/chernobyl-accident.aspx<br />
+https://en.wikipedia.org/wiki/Perfluorooctanoic_acid<br />
+https://en.wikipedia.org/wiki/Great_Chicago_Fire</p>
+]]></description>
+            <itunes:duration>3550</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2020/10/08/Biazarre-Man-Made-Disasters/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason1.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>15</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>SCP Foundation Part 2</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_14_SCP-Foundation-Part-2.mp3' length='71232772' type='audio/mpeg'/>
 			<guid>2020-09-30-SCP-Foundation-Part-2</guid>
