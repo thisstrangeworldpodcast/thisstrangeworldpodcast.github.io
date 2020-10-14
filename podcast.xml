@@ -21,6 +21,34 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Bizarre US Elections</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_16_Bizarre-US-Elections.mp3' length='94127972' type='audio/mpeg'/>
+			<guid>2020-10-14-Bizarre-US-Elections</guid>
+            <pubDate>Wed, 14 Oct 2020 00:03:40 -0400</pubDate>
+            <description><![CDATA[<p>We’re living in pretty strange times to say the least, and while we may be going through one of the most bizarre US elections in American history, it hasn’t always been smooth. Gavin brings in some stories of elections past and even some weird political candidates you wouldn’t expect, while Chris and Leah narrow down their top parody candidates. Plus our political expert Madison is here to help translate political jargon. It’s a fun time. (Hint: MAKE SURE YOU ARE REGISTERED TO VOTE.)</p>
+
+<p>Voting is an important part of our democracy, and this year is especially important. There are a lot of resources to help you become knowledgeable on the candidates and get registered to vote, but we have provided a few of our favorites. Please, please, please, register to vote, and don’t forget to check early voting deadlines in your state or take the necessary precautions to vote in person.</p>
+
+<h1 id="voting-resources">Voting Resources</h1>
+
+<p>https://www.vote.org/<br />
+https://votesaveamerica.com/<br />
+https://www.whenweallvote.org/</p>
+
+<h1 id="sources">Sources</h1>
+
+<p>https://www.cnn.com/2015/10/30/politics/interesting-u-s-elections/index.html</p>
+]]></description>
+            <itunes:duration>3920</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2020/10/14/Bizarre-US-Elections/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason1.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>16</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>Bizarre Man-Made Disasters</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_15_Bizarre-Man-Made-Disasters.mp3' length='85250640' type='audio/mpeg'/>
 			<guid>2020-10-08-Bizarre-Man-Made-Disasters</guid>
