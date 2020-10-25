@@ -8,7 +8,7 @@
 ]]></description>
         <link>https://www.thisstrangeworldpodcast.com/</link>
 		
-        <itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason1.jpg'/>
+        <itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArt_S1_17_Influential-Women-Throughout-History.jpg'/>
         
 		<itunes:category text='Society &amp; Culture'/>
 		
@@ -20,6 +20,42 @@
 		
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>Influential Women Throughout History</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_17_Influential-Women-Throughout-History.mp3' length='142716686' type='audio/mpeg'/>
+			<guid>2020-10-25-Influential-Women-Throughout-History</guid>
+            <pubDate>Sun, 25 Oct 2020 00:03:50 -0400</pubDate>
+            <description><![CDATA[<p>Throughout history, women have spoken out fearlessly against racial injustice, sexual injustice, climate change, and many other critical issues to make a difference for the future. In this week’s special episode, Leah discusses ten of the most influential women throughout history. Plus, our friend Kristen Mirand, from ABC 13 WSET in Virginia and a former Ithaca College alum, will join our conversation. (Hint: This is an episode you do not want to miss.)</p>
+
+<h1 id="sources">Sources</h1>
+
+<p>https://www.globalcitizen.org/en/content/gender-equality-laws-quotes-ruth-bader-ginsburg/<br />
+https://www.marieclaire.co.uk/news/most-inspirational-women-575925<br />
+https://helenkellerfoundation.org/about/<br />
+https://en.wikipedia.org/wiki/Emmeline_Pankhurst<br />
+https://www.biography.com/activist/emmeline-pankhurst<br />
+https://www.history.com/topics/exploration/amelia-earhart<br />
+https://www.historynet.com/amelia-earhart<br />
+https://www.biographyonline.net/people/diana/achievements_princess_diana.html<br />
+https://www.biography.com/activist/rosa-parks<br />
+https://www.biography.com/media-figure/oprah-winfrey<br />
+https://vocal.media/longevity/oprah-winfreys-greatest-accomplishments<br />
+https://www.unwomen.org/en/partnerships/goodwill-ambassadors/emma-watson<br />
+https://www.heforshe.org/en/movemen<br />
+https://time.com/person-of-the-year-2019-greta-thunberg/<br />
+https://en.wikipedia.org/wiki/Greta_Thunberg<br />
+https://www.nobelprize.org/prizes/peace/2014/yousafzai/facts/<br />
+https://time.com/4402630/malala-yousafzai-accomplishments/</p>
+]]></description>
+            <itunes:duration>5945</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2020/10/25/Influential-Women-Throughout-History/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArt_S1_17_Influential-Women-Throughout-History.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>17</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
         <item>
             <title>Bizarre US Elections</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_16_Bizarre-US-Elections.mp3' length='94127972' type='audio/mpeg'/>
