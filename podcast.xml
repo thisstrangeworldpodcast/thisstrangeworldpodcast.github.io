@@ -8,7 +8,7 @@
 ]]></description>
         <link>https://www.thisstrangeworldpodcast.com/</link>
 		
-        <itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArt_S1_17_Influential-Women-Throughout-History.jpg'/>
+        <itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArt_S1_18_This-Spooky-World-Halloween-Special.jpg'/>
         
 		<itunes:category text='Society &amp; Culture'/>
 		
@@ -20,6 +20,44 @@
 		
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
+        <item>
+            <title>This Spooky World: Halloween Special</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_18_This-Spooky-World-Halloween-Special.mp3' length='169014381' type='audio/mpeg'/>
+			<guid>2020-10-31-This-Spooky-World-Halloween-Special</guid>
+            <pubDate>Sat, 31 Oct 2020 00:04:00 -0400</pubDate>
+            <description><![CDATA[<p>Spooky season is upon us! And that means it’s time for This Strange World’s first spooky 3-part episode! This episode is jam-packed with spooky content galor! First, Gavin is going to talk about some of the most popular halloween candies, then Chris is going to tell us some urban legends, and finally, Leah is going to talk about some horror movies that were based on real events. So gather some candy, get dressed in your finest costume, and don’t forget to wear a mask, because it’s time for This Spooky World: Halloween Special! (Hint: Boo!)</p>
+
+<h1 id="topics-timecodes">Topics Timecodes</h1>
+<p>Gavin - Candy Facts: 05:45
+Chris - Urban Legends: 46:49
+Leah - Horror Movies based on Real Events: 01:19:32</p>
+
+<h1 id="sources">Sources</h1>
+<p>https://www.thedailymeal.com/holidays/most-popular-halloween-candies-every-decade-gallery<br />
+https://www.delish.com/food-news/g23281676/most-popular-halloween-candy-year-you-were-born/<br />
+https://1029thelake.iheart.com/content/2019-10-30-most-popular-halloween-candy-state-by-state-for-2019/<br />
+https://www.eatthis.com/popular-halloween-candy-america/<br />
+https://www.scaryforkids.com/high-beams/<br />
+https://www.scaryforkids.com/the-thing/<br />
+https://www.scaryforkids.com/babysitter/<br />
+https://www.scaryforkids.com/the-peephole/<br />
+https://www.scaryforkids.com/humans-can-lick-too/<br />
+https://themorningnews.org/article/the-statue-in-the-corner<br />
+https://www.snopes.com/fact-check/arent-you-glad-you-didnt-turn-on-the-light/<br />
+2 Sentence Horror Stories - Google Images<br />
+https://www.cosmopolitan.com/entertainment/movies/g19738089/horror-movies-based-on-true-stories/<br />
+https://youtu.be/qjqh9UVfNNk<br />
+https://youtu.be/1KgSp94nCZw</p>
+]]></description>
+            <itunes:duration>7040</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2020/10/31/This-Spooky-World-Halloween-Special/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArt_S1_18_This-Spooky-World-Halloween-Special.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>18</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
         <item>
             <title>Influential Women Throughout History</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_17_Influential-Women-Throughout-History.mp3' length='142716686' type='audio/mpeg'/>
