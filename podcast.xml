@@ -8,7 +8,7 @@
 ]]></description>
         <link>https://www.thisstrangeworldpodcast.com/</link>
 		
-        <itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArt_S1_18_This-Spooky-World-Halloween-Special.jpg'/>
+        <itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason1.jpg'/>
         
 		<itunes:category text='Society &amp; Culture'/>
 		
@@ -21,10 +21,30 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Bizarre Phobias</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_19_Bizarre-Phobias.mp3' length='79979303' type='audio/mpeg'/>
+			<guid>2020-11-07-Bizarre-Phobias</guid>
+            <pubDate>Sat, 07 Nov 2020 14:36:00 -0500</pubDate>
+            <description><![CDATA[<p>This week, Gavin talks about some of the most bizarre and unconventional phobias, while Chris and Leah try to guess what they are. (Hint: You can guess along at home!)</p>
+
+<h1 id="sources">Sources</h1>
+<p>https://www.therecoveryvillage.com/mental-health/phobias/related/weird-phobias/<br />
+https://emtv.com.pg/10-weirdest-phobias/</p>
+]]></description>
+            <itunes:duration>3330</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2020/11/07/Bizarre-Phobias/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason1.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>19</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>This Spooky World: Halloween Special</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_18_This-Spooky-World-Halloween-Special.mp3' length='169014381' type='audio/mpeg'/>
 			<guid>2020-10-31-This-Spooky-World-Halloween-Special</guid>
-            <pubDate>Sat, 31 Oct 2020 00:04:00 -0400</pubDate>
+            <pubDate>Sat, 31 Oct 2020 01:04:00 -0400</pubDate>
             <description><![CDATA[<p>Spooky season is upon us! And that means it’s time for This Strange World’s first spooky 3-part episode! This episode is jam-packed with spooky content galor! First, Gavin is going to talk about some of the most popular halloween candies, then Chris is going to tell us some urban legends, and finally, Leah is going to talk about some horror movies that were based on real events. So gather some candy, get dressed in your finest costume, and don’t forget to wear a mask, because it’s time for This Spooky World: Halloween Special! (Hint: Boo!)</p>
 
 <h1 id="topics-timecodes">Topics Timecodes</h1>
