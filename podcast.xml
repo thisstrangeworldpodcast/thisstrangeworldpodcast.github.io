@@ -21,6 +21,29 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>History of Superstitions</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_20_History-of-Superstitions.mp3' length='91269326' type='audio/mpeg'/>
+			<guid>2020-11-13-History-of-Superstitions</guid>
+            <pubDate>Fri, 13 Nov 2020 01:00:00 -0500</pubDate>
+            <description><![CDATA[<p>In honor of Friday the 13th, Chris goes over the history of some famous superstitions while Leah and Gavin continue to knock on wood and throw salt over their shoulder. (Hint: Don’t break any mirrors or walk under any ladders.)</p>
+
+<h1 id="sources">Sources</h1>
+<p>https://www.insider.com/history-origin-people-superstitions-2018-4<br />
+https://www.cracked.com/article_20594_5-shockingly-violent-back-stories-everyday-traditions.html<br />
+https://www.rd.com/list/bizarre-origins-of-everyday-superstitions/<br />
+https://www.cracked.com/pictofacts-2005-19-origins-everyday-traditions-explained/</p>
+
+]]></description>
+            <itunes:duration>3800</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2020/11/13/History-of-Superstitions/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason1.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>20</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>Bizarre Phobias</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_19_Bizarre-Phobias.mp3' length='79979303' type='audio/mpeg'/>
 			<guid>2020-11-07-Bizarre-Phobias</guid>
