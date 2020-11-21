@@ -21,6 +21,36 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>The Pups of U.S. Presidents</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_21_The-Pups-of-US-Presidents.mp3' length='85736412' type='audio/mpeg'/>
+			<guid>2020-11-20-The-Pups-of-US-Presidents</guid>
+            <pubDate>Sat, 21 Nov 2020 01:00:00 -0500</pubDate>
+            <description><![CDATA[<p>Leah brings us one of her favorite topics to talk about… dogs! More specifically, this week we talk about the famous dogs of the U.S. Presidents, as well as a few other animals that have had the chance to live in the White House. (Hint: Red, White and…Bark? I’m sorry.)</p>
+
+<h1 id="animal-rescue-resources">Animal Rescue Resources</h1>
+<p>https://www.spcai.org/<br />
+https://www.aspca.org/<br />
+https://bestfriends.org/<br />
+https://www.hopeforpaws.org/<br />
+https://www.secondchanceanimals.org/</p>
+
+<h1 id="sources">Sources</h1>
+<p>https://www.nytimes.com/2018/04/18/world/europe/corgi-dogs-queen-elizabeth.html<br />
+https://www.nytimes.com/2020/11/10/style/biden-german-shepherd-champ-major-rescue.html<br />
+https://youtu.be/1AS-dCdYZbo<br />
+https://www.bringfido.com/blog/history-of-dogs-in-the-white-house<br />
+https://en.wikipedia.org/wiki/Royal_corgis</p>
+]]></description>
+            <itunes:duration>3570</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2020/11/21/The-Pups-of-US-Presidents/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason1.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>21</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>History of Superstitions</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_20_History-of-Superstitions.mp3' length='91269326' type='audio/mpeg'/>
 			<guid>2020-11-13-History-of-Superstitions</guid>
