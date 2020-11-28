@@ -21,6 +21,29 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Bizarre Crowdfunding Projects</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_22_Bizarre-Crowdfunding-Projects.mp3' length='79254239' type='audio/mpeg'/>
+			<guid>2020-11-28-Bizarre-Crowdfunding-Projects</guid>
+            <pubDate>Sat, 28 Nov 2020 05:40:00 -0500</pubDate>
+            <description><![CDATA[<p>Have you ever had a misunderstood idea? Well a lot of people have, and they’ve gotten a shocking amount of money on crowdfunding sites. This week Gavin brings some of the most bizarre crowdfunding projects while Chris and Leah debate the needs for edible cups, meat soap, and a giant inflatable sculpture of Lionel Richie’s head. (Hint: Get in on wacky crowdfunding ideas before they go viral.)</p>
+
+<h1 id="sources">Sources</h1>
+<p>https://www.forbes.com/sites/ryanrobinson/2017/09/18/crowdfunded-side-projects-that-became-million-dollar-companies/<br />
+https://crowdfundingblog.com/most-successful-crowdfunding-projects/<br />
+https://www.lifewire.com/weirdest-successful-kickstarter-campaigns-3486133<br />
+https://www.businessnewsdaily.com/7925-weirdest-kickstarter-projects.html<br />
+https://www.visualcapitalist.com/19-weird-crowdfunding-campaigns-failed/</p>
+]]></description>
+            <itunes:duration>3300</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2020/11/28/Bizarre-Crowdfunding-Projects/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason1.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>22</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>The Pups of U.S. Presidents</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_21_The-Pups-of-US-Presidents.mp3' length='85736412' type='audio/mpeg'/>
 			<guid>2020-11-20-The-Pups-of-US-Presidents</guid>
