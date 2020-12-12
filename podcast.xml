@@ -21,6 +21,27 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Bigfoot, Devils, and Other Cryptids</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_24_Bigfoot-Devils-and-Other-Cryptids.mp3' length='68069007' type='audio/mpeg'/>
+			<guid>2020-12-12-Bigfoot-Devils-and-Other-Cryptids</guid>
+            <pubDate>Sat, 12 Dec 2020 03:35:00 -0500</pubDate>
+            <description><![CDATA[<p>Cryptids are an animal (such as Sasquatch or the Loch Ness Monster) that has been claimed to exist but never proven to exist. In our first episode about Cryptids, Chris explains the legends behind Bigfoot, The Jersey Devil, and The Dover Demon, leaving Gavin and Leah to wonder if there is some truth to these mysteries. (Hint: Listen to find out for yourself!)</p>
+
+<h1 id="sources">Sources</h1>
+<p>https://cryptidz.fandom.com/wiki/Dover_Demon<br />
+https://weirdnj.com/stories/jersey-devil/<br />
+https://en.wikipedia.org/wiki/Bigfoot</p>
+]]></description>
+            <itunes:duration>2835</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2020/12/12/Bigfoot-Devils-and-Other-Cryptids/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason1.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>24</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>Overhyped: The Last of Us Part II</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_23_Overhyped-The-Last-of-Us-Part-II.mp3' length='105763873' type='audio/mpeg'/>
 			<guid>2020-12-05-Overhyped-The-Last-of-Us-Part-II</guid>
