@@ -21,6 +21,26 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Conspiracy Theory: Paul is Dead</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_25_Conspiracy-Theory-Paul-is-Dead.mp3' length='79713446' type='audio/mpeg'/>
+			<guid>2020-12-20-Conspiracy-Theory-Paul-is-Dead</guid>
+            <pubDate>Sun, 20 Dec 2020 03:34:00 -0500</pubDate>
+            <description><![CDATA[<p>This week, Gavin gives us a deep dive into one of music’s most notorious conspiracy theories, Paul is Dead. We discuss how this theory managed to blow up and decide for ourselves if this holds any legitimacy. (Hint: Listen to decide for yourself!)</p>
+
+<h1 id="sources">Sources</h1>
+<p>https://www.rollingstone.com/music/music-features/paul-mccartney-is-dead-conspiracy-897189/<br />
+http://content.time.com/time/specials/packages/article/0,28804,1860871_1860876_1860997,00.html</p>
+]]></description>
+            <itunes:duration>3320</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2020/12/20/Conspiracy-Theory-Paul-is-Dead/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason1.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>25</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>Bigfoot, Devils, and Other Cryptids</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_24_Bigfoot-Devils-and-Other-Cryptids.mp3' length='68069007' type='audio/mpeg'/>
 			<guid>2020-12-12-Bigfoot-Devils-and-Other-Cryptids</guid>
