@@ -21,6 +21,27 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Unique Holiday Traditions</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_26_Unique-Holiday-Traditions.mp3' length='84301008' type='audio/mpeg'/>
+			<guid>2020-12-24-Unique-Holiday-Traditions</guid>
+            <pubDate>Thu, 24 Dec 2020 02:00:00 -0500</pubDate>
+            <description><![CDATA[<p>For this holiday episode, Leah takes us through some unique holiday traditions, talking about food, festivities, and decorations from around the globe. Meanwhile, Gavin and Chris try to figure out which Asian country eats KFC on Christmas, which country carols with a dead horse skull, where The Elf on the Shelf originated, and more! (Hint: Regardless of your unique traditions, we wish you a very Happy Holidays!)</p>
+
+<h1 id="sources">Sources</h1>
+<p>https://www.heifer.org/blog/weird-and-wonderful-christmas-traditions-around-the-world.html<br />
+https://www.newsweek.com/10-weird-holiday-traditions-celebrated-around-world-757732<br />
+https://spoonuniversity.com/lifestyle/8-unique-holiday-food-traditions-from-around-the-globe</p>
+]]></description>
+            <itunes:duration>3510</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2020/12/24/Unique-Holiday-Traditions/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason1.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>26</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>Conspiracy Theory: Paul is Dead</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_25_Conspiracy-Theory-Paul-is-Dead.mp3' length='79713446' type='audio/mpeg'/>
 			<guid>2020-12-20-Conspiracy-Theory-Paul-is-Dead</guid>
