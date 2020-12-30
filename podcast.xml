@@ -21,6 +21,30 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>2020 Year in Review</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_27_2020-Year-in-Review.mp3' length='121722780' type='audio/mpeg'/>
+			<guid>2020-12-30-2020-Year-in-Review</guid>
+            <pubDate>Wed, 30 Dec 2020 03:30:00 -0500</pubDate>
+            <description><![CDATA[<p>For our final episode of the year and the season, we decided to do a 2020 Year in Review! We start by looking back on some of the most popular trends and topics from this past year, and then we delve into some of the biggest topics in Music, Sports, Movies, and TV. (Hint: 2020 was quite the year.)</p>
+
+<h1 id="sources">Sources</h1>
+<p>https://trends.google.com/trends/yis/2020/US/<br />
+https://www.news24.com/channel/music/news/documentaries-about-music-stars-were-all-the-rage-in-2020-here-are-5-to-watch-20201224-2<br />
+https://www.officialcharts.com/chart-news/the-official-top-40-biggest-songs-of-2020-so-far__29264/<br />
+https://www.wonderwall.com/entertainment/music/biggest-music-moments-of-2020-so-far-356120.gallery?photoId=394638<br />
+https://www.latimes.com/sports/story/2020-12-22/timeline-biggest-events-moments-sports-2020<br />
+https://reelgood.com/year/2020</p>
+]]></description>
+            <itunes:duration>5070</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2020/12/30/2020-Year-in-Review/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason1.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>27</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>Unique Holiday Traditions</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_26_Unique-Holiday-Traditions.mp3' length='84301008' type='audio/mpeg'/>
 			<guid>2020-12-24-Unique-Holiday-Traditions</guid>
