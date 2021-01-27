@@ -21,6 +21,29 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Best Moments of Season 1</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_28_Best-Moments-of-Season-1.mp3' length='72027681' type='audio/mpeg'/>
+			<guid>2021-01-27-Best-Moments-of-Season-1</guid>
+            <pubDate>Wed, 27 Jan 2021 02:55:00 -0500</pubDate>
+            <description><![CDATA[<p>In this special bonus episode, Gavin, Leah, and Chris talk about some of their favorite moments from Season 1! From quips at Chris, to quips at Chris, to quips at Chris, it really has been a wild season.</p>
+
+<p>Thank you so much for listening to and downloading our episodes. We’ve loved making them and are super excited to begin season 2 with all new topics! Be sure to follow us wherever you get your podcasts to see when we release new episodes. (Hint: You won’t want to miss them!)</p>
+
+<p>Don’t forget to follow on Facebook, Instagram, Twitter too!<br />
+https://www.facebook.com/thisstrangeworldpodcast<br />
+https://www.instagram.com/thisstrangeworldpodcast<br />
+https://twitter.com/thisstrangepod</p>
+]]></description>
+            <itunes:duration>3000</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2021/01/27/Best-Moments-of-Season-1/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason1.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>28</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>2020 Year in Review</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_27_2020-Year-in-Review.mp3' length='121722780' type='audio/mpeg'/>
 			<guid>2020-12-30-2020-Year-in-Review</guid>
