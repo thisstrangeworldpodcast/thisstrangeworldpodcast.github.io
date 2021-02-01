@@ -21,6 +21,29 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Origins of This Strange World</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_29_Origins-of-This-Strange-World.mp3' length='88241482' type='audio/mpeg'/>
+			<guid>2021-02-01-Origins-of-This-Strange-World</guid>
+            <pubDate>Mon, 01 Feb 2021 06:00:00 -0500</pubDate>
+            <description><![CDATA[<p>In this second bonus episode, Gavin, Leah, and Chris talk about some of their favorite episodes from season 1 and about how TSW came to be! Stick around until the end to hear the original episode that inspired it all. (Hint: It’s pretty wacky!)</p>
+
+<p>Season 2 is coming real soon! Be sure to follow us wherever you get your podcasts to see when we release new episodes.</p>
+
+<p>Don’t forget to follow on Facebook, Instagram, Twitter too!<br />
+https://www.facebook.com/thisstrangeworldpodcast<br />
+https://www.instagram.com/thisstrangeworldpodcast<br />
+https://twitter.com/thisstrangepod</p>
+]]></description>
+            <itunes:duration>3675</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2021/02/01/Origins-of-This-Strange-World/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason1.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>29</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>Best Moments of Season 1</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_28_Best-Moments-of-Season-1.mp3' length='72027681' type='audio/mpeg'/>
 			<guid>2021-01-27-Best-Moments-of-Season-1</guid>
