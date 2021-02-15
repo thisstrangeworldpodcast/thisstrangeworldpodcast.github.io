@@ -21,6 +21,32 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Moon Landing Hoax Conspiracy Theories</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S2_01_Moon-Landing-Hoax-Conspiracy-Theories.mp3' length='65181357' type='audio/mpeg'/>
+			<guid>2021-02-15-Moon-Landing-Hoax-Conspiracy-Theories</guid>
+            <pubDate>Mon, 15 Feb 2021 04:00:00 -0500</pubDate>
+            <description><![CDATA[<p>On July 20, 1969, the United States landed on the moon…or did they? In our season premiere, Chris walks us through some Moon Landing Hoax Conspiracy Theories, while Gavin and Leah debate if you can recreate the moon landing in a movie studio. (Hint: You would need a really good movie studio by ‘60s standards.)</p>
+
+<p>Don’t forget to follow on Facebook, Instagram, and Twitter!<br />
+https://www.facebook.com/thisstrangeworldpodcast/<br />
+https://www.instagram.com/thisstrangeworldpodcast/<br />
+https://twitter.com/thisstrangepod/</p>
+
+<h1 id="sources">Sources</h1>
+<p>https://earthsky.org/space/apollo-and-the-moon-landing-hoax<br />
+https://science.howstuffworks.com/moon-landing-hoax.htm<br />
+https://en.wikipedia.org/wiki/Moon_landing_conspiracy_theories</p>
+]]></description>
+            <itunes:duration>2715</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2021/02/15/Moon-Landing-Hoax-Conspiracy-Theories/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason1.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>1</itunes:episode>
+			<itunes:season>2</itunes:season>
+            
+        </item>
+        <item>
             <title>Origins of This Strange World</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S1_29_Origins-of-This-Strange-World.mp3' length='88241482' type='audio/mpeg'/>
 			<guid>2021-02-01-Origins-of-This-Strange-World</guid>
