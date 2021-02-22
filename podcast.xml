@@ -21,6 +21,36 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>The Mystery of the Bermuda Triangle</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S2_02_The-Mystery-of-the-Bermuda-Triangle.mp3' length='64816019' type='audio/mpeg'/>
+			<guid>2021-02-22-The-Mystery-of-the-Bermuda-Triangle</guid>
+            <pubDate>Mon, 22 Feb 2021 03:30:00 -0500</pubDate>
+            <description><![CDATA[<p>The Bermuda Triangle is a region in the western part of the North Atlantic Ocean where multiple ships and aircrafts are said to have disappeared under mysterious circumstances. In recent years, many of these disappearances have been attributed to paranormal activity or extraterrestrial beings. Most reputable sources dismiss the idea that there is any mystery, but Gavin, Leah, and Chris have decided to take it upon themselves to decide if there is any legitimacy to the mystery of the Bermuda Triangle. (Hint: Listen to decide for yourself!)</p>
+
+<p>Don’t forget to follow on Facebook, Instagram, and Twitter!<br />
+https://www.facebook.com/thisstrangeworldpodcast/<br />
+https://www.instagram.com/thisstrangeworldpodcast/<br />
+https://twitter.com/thisstrangepod/</p>
+
+<h1 id="sources">Sources</h1>
+<p>https://www.history.com/topics/folklore/bermuda-triangle<br />
+https://www.businessinsider.com/what-is-bermuda-triangle-myths-mysteries-disappearances-vanishes<br />
+https://www.history.navy.mil/content/history/nhhc/research/library/online-reading-room/title-list-alphabetically/l/lost-patrol.html<br />
+https://www.livescience.com/15177-gallery-bermuda-triangle.html<br />
+https://abcnews.go.com/GMA/AroundTheWorld/story?id=7163464&amp;page=1<br />
+https://aviation-safety.net/database/record.php?id=19490117-1</p>
+
+]]></description>
+            <itunes:duration>2700</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2021/02/22/The-Mystery-of-the-Bermuda-Triangle/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason1.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>2</itunes:episode>
+			<itunes:season>2</itunes:season>
+            
+        </item>
+        <item>
             <title>Moon Landing Hoax Conspiracy Theories</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S2_01_Moon-Landing-Hoax-Conspiracy-Theories.mp3' length='65181357' type='audio/mpeg'/>
 			<guid>2021-02-15-Moon-Landing-Hoax-Conspiracy-Theories</guid>
