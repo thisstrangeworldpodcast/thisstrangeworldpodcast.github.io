@@ -21,6 +21,32 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>The Last Stone Age Tribe on the Most Dangerous Island</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S2_04_The-Last-Stone-Age-Tribe.mp3' length='70816375' type='audio/mpeg'/>
+			<guid>2021-03-08-The-Last-Stone-Age-Tribe</guid>
+            <pubDate>Mon, 08 Mar 2021 03:30:00 -0500</pubDate>
+            <description><![CDATA[<p>North Sentinel Island is a remote island near the coast of India. It is home to the Sentinelese, an indigenous people in voluntary isolation who have defended, often by force, their protected isolation from the outside world. In 1956 it was made illegal to be within five nautical miles of this island in order to prevent the resident tribespeople from contracting diseases to which they have no immunity. This week, Chris brings Leah and Gavin some stories about this tribe that is still living in the stone age, and the people who have attempted to visit North Sentinel Island. (Hint: You definitely don’t want to visit this island.)</p>
+
+<p>Don’t forget to follow on Facebook, Instagram, and Twitter!<br />
+https://www.facebook.com/thisstrangeworldpodcast/<br />
+https://www.instagram.com/thisstrangeworldpodcast/<br />
+https://twitter.com/thisstrangepod/</p>
+
+<h1 id="sources">Sources</h1>
+<p>https://www.youtube.com/watch?v=WXY1Dp-eWzA<br />
+https://www.forbes.com/sites/kionasmith/2018/11/30/everything-we-know-about-the-isolated-sentinelese-people-of-north-sentinel-island/<br />
+https://en.wikipedia.org/wiki/John_Allen_Chau</p>
+]]></description>
+            <itunes:duration>2950</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2021/03/08/The-Last-Stone-Age-Tribe/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason1.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>4</itunes:episode>
+			<itunes:season>2</itunes:season>
+            
+        </item>
+        <item>
             <title>Aliens, Atlantis, and Pseudoarchaeology</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S2_03_Aliens-Atlantis-and-Pseudoarchaeology.mp3' length='81141369' type='audio/mpeg'/>
 			<guid>2021-03-01-Aliens-Atlantis-and-Pseudoarchaeology</guid>
