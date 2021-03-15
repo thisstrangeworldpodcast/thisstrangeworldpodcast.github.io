@@ -21,6 +21,30 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Bizarre Sports You've Probably Never Heard Of</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S2_05_Bizarre-Sports.mp3' length='72027450' type='audio/mpeg'/>
+			<guid>2021-03-15-Bizarre-Sports</guid>
+            <pubDate>Mon, 15 Mar 2021 05:00:00 -0400</pubDate>
+            <description><![CDATA[<p>While most people are familiar with Football, Basketball, and Baseball, not as many people are as familiar with Kabaddi, Cycleball, and Chess Boxing. This week, Gavin brings in some of the most bizarre sports you’ve probably never heard of, and challenges Leah and Chris to guess what they are based on their name. (Hint: Zorbing might surprise you.)</p>
+
+<p>Don’t forget to follow on Facebook, Instagram, and Twitter!<br />
+https://www.facebook.com/thisstrangeworldpodcast/<br />
+https://www.instagram.com/thisstrangeworldpodcast/<br />
+https://twitter.com/thisstrangepod/</p>
+
+<h1 id="sources">Sources</h1>
+<p>https://www.businessinsider.com/obscure-weird-sports-2010-11</p>
+]]></description>
+            <itunes:duration>3000</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2021/03/15/Bizarre-Sports/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason1.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>5</itunes:episode>
+			<itunes:season>2</itunes:season>
+            
+        </item>
+        <item>
             <title>The Last Stone Age Tribe on the Most Dangerous Island</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S2_04_The-Last-Stone-Age-Tribe.mp3' length='70816375' type='audio/mpeg'/>
 			<guid>2021-03-08-The-Last-Stone-Age-Tribe</guid>
