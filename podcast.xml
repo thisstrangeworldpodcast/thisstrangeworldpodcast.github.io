@@ -21,6 +21,34 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>SCP Foundation Part 3</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S2_06_SCP-Foundation-Part-3.mp3' length='69383804' type='audio/mpeg'/>
+			<guid>2021-03-22-SCP-Foundation-Part-3</guid>
+            <pubDate>Mon, 22 Mar 2021 03:30:00 -0400</pubDate>
+            <description><![CDATA[<p>In the highly anticipated third part to our SCP Foundation series, Leah brings in some brand new SCPs to talk about with Gavin and Chris, along with bringing in our friend (and professor), Pete Johanns, to give his take on these spooky anomalies. (Hint: Check out SCP Foundation Part 1 and Part 2, available wherever you get your podcasts!)</p>
+
+<p>Disclaimer: There were technical difficulties with the recording, so the voices will occasionally distort to sound lower than they really are.</p>
+
+<p>Don’t forget to follow on Facebook, Instagram, and Twitter!<br />
+https://www.facebook.com/thisstrangeworldpodcast/<br />
+https://www.instagram.com/thisstrangeworldpodcast/<br />
+https://twitter.com/thisstrangepod/</p>
+
+<h1 id="sources">Sources</h1>
+<p>https://www.youtube.com/watch?v=GLQRcgA-R-0<br />
+https://www.youtube.com/watch?v=1HGN49ieZzM</p>
+
+]]></description>
+            <itunes:duration>2890</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2021/03/22/SCP-Foundation-Part-3/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason1.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>6</itunes:episode>
+			<itunes:season>2</itunes:season>
+            
+        </item>
+        <item>
             <title>Bizarre Sports You've Probably Never Heard Of</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S2_05_Bizarre-Sports.mp3' length='72027450' type='audio/mpeg'/>
 			<guid>2021-03-15-Bizarre-Sports</guid>
