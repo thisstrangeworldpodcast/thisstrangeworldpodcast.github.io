@@ -21,6 +21,36 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Expedition of Dead Mountain: The Dyatlov Pass Incident</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S2_07_Dyatlov-Pass-Incident.mp3' length='58575955' type='audio/mpeg'/>
+			<guid>2021-03-29-Dyatlov-Pass-Incident</guid>
+            <pubDate>Mon, 29 Mar 2021 03:30:00 -0400</pubDate>
+            <description><![CDATA[<p>Between February 1st and 2nd of 1959, nine Russian hikers died in the northern Ural Mountains. The circumstances were unknown, but many theories have circulated for decades. The event became known as the Dyatlov Pass Incident. This week, Chris explains what allegedly happened on that mountain, while Gavin and Leah come up with their own conspiracies about the ultimate demise of the expedition. (Hint: Be careful scaling tall mountains in Russia with no cell phone, because ya know, it’s the 50s.)</p>
+
+<p>Don’t forget to follow on Facebook, Instagram, and Twitter!<br />
+https://www.facebook.com/thisstrangeworldpodcast/<br />
+https://www.instagram.com/thisstrangeworldpodcast/<br />
+https://twitter.com/thisstrangepod/</p>
+
+<h1 id="sources">Sources</h1>
+<p>https://youtu.be/bQpNdevrtiM<br />
+https://youtu.be/50MW9Rczxe8<br />
+https://youtu.be/Y8RigxxiilI<br />
+https://youtu.be/wENKt8bR2RM<br />
+https://en.wikipedia.org/wiki/Dyatlov_Pass_incident<br />
+https://www.smithsonianmag.com/smart-news/scientists-may-have-finally-unraveled-mystery-dyatlov-pass-incident-180976886/</p>
+
+]]></description>
+            <itunes:duration>2440</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2021/03/29/Dyatlov-Pass-Incident/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason1.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>7</itunes:episode>
+			<itunes:season>2</itunes:season>
+            
+        </item>
+        <item>
             <title>SCP Foundation Part 3</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S2_06_SCP-Foundation-Part-3.mp3' length='69383804' type='audio/mpeg'/>
 			<guid>2021-03-22-SCP-Foundation-Part-3</guid>
