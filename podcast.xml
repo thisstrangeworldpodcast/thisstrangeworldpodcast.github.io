@@ -21,6 +21,33 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>The End Of The World: Failed Doomsday Predictions</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S2_08_Failed-Doomsday-Predictions.mp3' length='66266531' type='audio/mpeg'/>
+			<guid>2021-04-05-Failed-Doomsday-Predictions</guid>
+            <pubDate>Mon, 05 Apr 2021 03:30:00 -0400</pubDate>
+            <description><![CDATA[<p>The world is probably going to end at some point, right? Whether it’s a billion years from now or next week, that hasn’t stopped people from trying to predict a potential impending doomsday. This week Gavin brings in some of his favorite armageddon predictions while Chris and Leah make their own predictions about the end of the world. (Hint: If you get it wrong the first time, maybe you can’t predict the end of the world, so stop trying.)</p>
+
+<p>Don’t forget to follow on Facebook, Instagram, and Twitter!<br />
+https://www.facebook.com/thisstrangeworldpodcast/<br />
+https://www.instagram.com/thisstrangeworldpodcast/<br />
+https://twitter.com/thisstrangepod/</p>
+
+<h1 id="sources">Sources</h1>
+<p>https://www.britannica.com/list/10-failed-doomsday-predictions<br />
+https://www.livescience.com/7926-10-failed-doomsday-predictions.html<br />
+https://en.wikipedia.org/wiki/List_of_dates_predicted_for_apocalyptic_events</p>
+
+]]></description>
+            <itunes:duration>2760</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2021/04/05/Failed-Doomsday-Predictions/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason1.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>8</itunes:episode>
+			<itunes:season>2</itunes:season>
+            
+        </item>
+        <item>
             <title>Expedition of Dead Mountain: The Dyatlov Pass Incident</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S2_07_Dyatlov-Pass-Incident.mp3' length='58575955' type='audio/mpeg'/>
 			<guid>2021-03-29-Dyatlov-Pass-Incident</guid>
