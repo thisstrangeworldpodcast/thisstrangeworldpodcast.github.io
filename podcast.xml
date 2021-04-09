@@ -21,6 +21,34 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>History of Famous Phrases</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S2_Bonus_01_History-of-Famous-Phrases.mp3' length='14050703' type='audio/mpeg'/>
+			<guid>2021-04-09-History-of-Famous-Phrases</guid>
+            <pubDate>Fri, 09 Apr 2021 01:00:00 -0400</pubDate>
+            <description><![CDATA[<p>In this very special bonus episode, Gavin, Leah, and Chris bring in some of their favorite phases to determine which one has the best origin.</p>
+
+<p>This episode was submitted to NPR’s Student Podcast Challenge College Edition, and received an honorable mention! We are thrilled to share this news and finally share this bonus episode! Be on the lookout for a full length episode on famous phrases coming soon, and check out more TSW at the links below!</p>
+
+<p>Check out the original submission on SoundCloud here: https://soundcloud.com/thisstrangeworldpodcast/history-of-famous-phrases</p>
+
+<p>Don’t forget to follow on Facebook, Instagram, and Twitter!<br />
+https://www.facebook.com/thisstrangeworldpodcast/<br />
+https://www.instagram.com/thisstrangeworldpodcast/<br />
+https://twitter.com/thisstrangepod/</p>
+
+<p>And check out more This Strange World links here: https://linktr.ee/thisstrangeworldpodcast</p>
+
+]]></description>
+            <itunes:duration>585</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2021/04/09/History-of-Famous-Phrases/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason1.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			
+			<itunes:season>2</itunes:season>
+            <itunes:episodeType>bonus</itunes:episodeType>
+        </item>
+        <item>
             <title>The End Of The World: Failed Doomsday Predictions</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S2_08_Failed-Doomsday-Predictions.mp3' length='66266531' type='audio/mpeg'/>
 			<guid>2021-04-05-Failed-Doomsday-Predictions</guid>
