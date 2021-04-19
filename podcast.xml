@@ -21,6 +21,37 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Real-Life Buried Treasure</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S2_10_Real-Life-Buried-Treasure.mp3' length='72021452' type='audio/mpeg'/>
+			<guid>2021-04-19-Real-Life-Buried-Treasure</guid>
+            <pubDate>Mon, 19 Apr 2021 05:30:00 -0400</pubDate>
+            <description><![CDATA[<p>Everyone has had the child-like wonder to look for buried treasure in their backyard and at the beach, but you never really find much. Some people take it to the next level, cracking hundred year old cyphers and looking for hidden artwork in the mountains and gold buried in forests. This week, Chris brings in some true stories of real buried and hidden treasures throughout time while Gavin and Leah start to plan trips to find them. (Hint: X marks the spot!)</p>
+
+<p>Don’t forget to follow on Facebook, Instagram, and Twitter!<br />
+https://www.facebook.com/thisstrangeworldpodcast/<br />
+https://www.instagram.com/thisstrangeworldpodcast/<br />
+https://twitter.com/thisstrangepod/</p>
+
+<p>And check out more This Strange World links here: https://linktr.ee/thisstrangeworldpodcast</p>
+
+<h1 id="sources">Sources</h1>
+<p>https://www.rd.com/list/hidden-treasures-in-usa/<br />
+https://www.outsideonline.com/2419429/forrest-fenn-treasure-jack-stuef<br />
+https://coolmaterial.com/feature/real-treasure-hunts/<br />
+https://en.wikipedia.org/wiki/Samuel_Bellamy<br />
+https://en.wikipedia.org/wiki/Whydah_Gally</p>
+
+]]></description>
+            <itunes:duration>3000</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2021/04/19/Real-Life-Buried-Treasure/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason1.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>10</itunes:episode>
+			<itunes:season>2</itunes:season>
+            
+        </item>
+        <item>
             <title>Misconceptions about the Mongol Empire and Genghis Khan</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S2_09_Misconceptions-about-the-Mongol-Empire.mp3' length='100820013' type='audio/mpeg'/>
 			<guid>2021-04-12-Misconceptions-about-the-Mongol-Empire</guid>
