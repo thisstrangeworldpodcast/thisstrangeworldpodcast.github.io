@@ -21,6 +21,40 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Unexplained Sounds</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S2_13_Unexplained-Sounds.mp3' length='64232061' type='audio/mpeg'/>
+			<guid>2021-06-14-Unexplained-Sounds</guid>
+            <pubDate>Mon, 14 Jun 2021 04:00:00 -0400</pubDate>
+            <description><![CDATA[<p>As the age old saying goes: the cow goes “moo”, the pig goes “oink”, but what does the Sun sound like? This week, Gavin, Leah, and Chris bring in some strange, weird, and unexplained sounds to listen to and discuss from the depths of the oceans, the far reaches of space, and…animals? (Hint: We recommend listening while you listen to the episode.)</p>
+
+<p>Don’t forget to follow on Facebook, Instagram, and Twitter!<br />
+https://www.facebook.com/thisstrangeworldpodcast/<br />
+https://www.instagram.com/thisstrangeworldpodcast/<br />
+https://twitter.com/thisstrangepod/</p>
+
+<p>And check out more This Strange World links here: https://linktr.ee/thisstrangeworldpodcast</p>
+
+<h1 id="sources">Sources</h1>
+<p>https://youtu.be/TX_X685TGtc<br />
+https://youtu.be/i5GnLLZYGxw<br />
+https://en.wikipedia.org/wiki/List_of_unexplained_sounds<br />
+https://youtu.be/7rE_FG2xauA<br />
+https://youtu.be/HrMCnJ4k6us<br />
+https://youtu.be/nPuOQxJOqh0<br />
+https://youtu.be/WSOqOv68UsU<br />
+https://youtu.be/pW27vpK4ALQ</p>
+
+]]></description>
+            <itunes:duration>2675</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2021/06/14/Unexplained-Sounds/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason1.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>13</itunes:episode>
+			<itunes:season>2</itunes:season>
+            
+        </item>
+        <item>
             <title>Mood Manipulation in Music</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S2_12_Mood-Manipulation-in-Music.mp3' length='46572521' type='audio/mpeg'/>
 			<guid>2021-05-18-Mood-Manipulation-in-Music</guid>
