@@ -21,6 +21,35 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>The Real Men in Black</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S2_14_The-Real-Men-in-Black.mp3' length='57624259' type='audio/mpeg'/>
+			<guid>2021-06-21-The-Real-Men-in-Black</guid>
+            <pubDate>Mon, 21 Jun 2021 02:00:00 -0400</pubDate>
+            <description><![CDATA[<p>Now when most people think of the Men in Black, they probably think of the 1997 film, Men in Black, starring Tommy Lee Jones and Will Smith, but did you know the movie might be based on a real organization. Strange sightings over the decades have created a conspiracy about a real-life supernatural organization known as the “Men in Black”. This week, Leah brings in some suspicious stories about the illusive organization, while Gavin and Chris decide if the tall tales have any possibility of being real. (Hint: We recommend steering clear of potential Men in Black.)</p>
+
+<p>Don’t forget to follow on Facebook, Instagram, and Twitter!<br />
+https://www.facebook.com/thisstrangeworldpodcast/<br />
+https://www.instagram.com/thisstrangeworldpodcast/<br />
+https://twitter.com/thisstrangepod/</p>
+
+<p>And check out more This Strange World links here: https://linktr.ee/thisstrangeworldpodcast</p>
+
+<h1 id="sources">Sources</h1>
+<p>https://www.history.com/news/men-in-black-real-origins<br />
+https://thoughtcatalog.com/jacob-geers/2016/04/creepy-stories-of-the-real-men-in-black/<br />
+https://www.youtube.com/watch?v=j2KKUcxAdjc</p>
+
+]]></description>
+            <itunes:duration>2400</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2021/06/21/The-Real-Men-in-Black/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason1.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>14</itunes:episode>
+			<itunes:season>2</itunes:season>
+            
+        </item>
+        <item>
             <title>Unexplained Sounds</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S2_13_Unexplained-Sounds.mp3' length='64232061' type='audio/mpeg'/>
 			<guid>2021-06-14-Unexplained-Sounds</guid>
