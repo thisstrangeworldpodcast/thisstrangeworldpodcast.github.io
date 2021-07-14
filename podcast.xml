@@ -21,6 +21,39 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>The Manson Family</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S2_17_The-Manson-Family.mp3' length='66266911' type='audio/mpeg'/>
+			<guid>2021-07-14-The-Manson-Family</guid>
+            <pubDate>Wed, 14 Jul 2021 04:00:00 -0400</pubDate>
+            <description><![CDATA[<p>This episode contains strong themes and language that may be not suitable for younger listeners.</p>
+
+<p>For our third cult episode, Chris brings in his research about the Manson Family, and the trials that followed the Manson Murders. The Manson Family was a commune and cult led by Charles Manson that was active in California in the late 1960s and early 1970s. The group consisted of approximately 50 followers, who lived an unconventional lifestyle with habitual use of hallucinogenic drugs such as LSD. (Hint: This episode is not for the faint of heart.)</p>
+
+<p>Don’t forget to follow on Facebook, Instagram, and Twitter!<br />
+https://www.facebook.com/thisstrangeworldpodcast/<br />
+https://www.instagram.com/thisstrangeworldpodcast/<br />
+https://twitter.com/thisstrangepod/</p>
+
+<p>And check out more This Strange World links here: https://linktr.ee/thisstrangeworldpodcast</p>
+
+<h1 id="sources">Sources</h1>
+<p>https://www.smithsonianmag.com/history/manson-family-murders-what-need-to-know-180972655/<br />
+https://www.biography.com/crime-figure/charles-manson<br />
+https://en.wikipedia.org/wiki/Manson_Family<br />
+https://www.youtube.com/watch?v=EWbzE0aZIvY&amp;t=904s<br />
+https://www.aetv.com/real-crime/manson-family-murder-trial</p>
+
+]]></description>
+            <itunes:duration>2760</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2021/07/14/The-Manson-Family/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason1.jpg'/>
+            <itunes:explicit>true</itunes:explicit>
+			
+			<itunes:episode>17</itunes:episode>
+			<itunes:season>2</itunes:season>
+            
+        </item>
+        <item>
             <title>H.P. Lovecraft and the Cthulhu Mythos</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S2_16_HP-Lovecraft-and-the-Cthulhu-Mythos.mp3' length='69148937' type='audio/mpeg'/>
 			<guid>2021-07-05-HP-Lovecraft-and-the-Cthulhu-Mythos</guid>
