@@ -21,6 +21,36 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>America's Unknown Child: The Death of the Boy in the Box</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S2_18_The-Death-of-the-Boy-in-the-Box.mp3' length='83191964' type='audio/mpeg'/>
+			<guid>2021-07-19-The-Death-of-the-Boy-in-the-Box</guid>
+            <pubDate>Mon, 19 Jul 2021 03:00:00 -0400</pubDate>
+            <description><![CDATA[<p>This episode contains strong themes and language that may be not suitable for younger listeners.</p>
+
+<p>The “Boy in the Box” is the name given to an unidentified murder victim, a 4-to 6-year-old boy, whose naked, battered body was found in a bassinet box in the Fox Chase section of Philadelphia, Pennsylvania, on February 25, 1957. This week, Leah brings in the details to this dark cold case, while Chris and Gavin debate who the unknown child is. (Hint: Listen to find out!)</p>
+
+<p>Don’t forget to follow on Facebook, Instagram, and Twitter!<br />
+https://www.facebook.com/thisstrangeworldpodcast/<br />
+https://www.instagram.com/thisstrangeworldpodcast/<br />
+https://twitter.com/thisstrangepod/</p>
+
+<p>And check out more This Strange World links here: https://linktr.ee/thisstrangeworldpodcast</p>
+
+<h1 id="sources">Sources</h1>
+<p>https://medium.com/the-mystery-box/unsolved-mysteries-who-was-the-boy-in-the-box-172e19dbba85<br />
+https://www.historicmysteries.com/the-boy-in-the-box/</p>
+
+]]></description>
+            <itunes:duration>3465</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2021/07/19/The-Death-of-the-Boy-in-the-Box/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason1.jpg'/>
+            <itunes:explicit>true</itunes:explicit>
+			
+			<itunes:episode>18</itunes:episode>
+			<itunes:season>2</itunes:season>
+            
+        </item>
+        <item>
             <title>The Manson Family</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S2_17_The-Manson-Family.mp3' length='66266911' type='audio/mpeg'/>
 			<guid>2021-07-14-The-Manson-Family</guid>
