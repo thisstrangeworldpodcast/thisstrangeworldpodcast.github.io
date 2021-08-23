@@ -21,6 +21,33 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Does Size Matter?: World’s Largest Roadside Attractions</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S2_23_Largest-Things-on-Earth.mp3' length='63408867' type='audio/mpeg'/>
+			<guid>2021-08-23-Largest-Things-on-Earth</guid>
+            <pubDate>Mon, 23 Aug 2021 04:30:00 -0400</pubDate>
+            <description><![CDATA[<p>Hey! Get your head out of the gutter. Hundreds of roadside attractions around the world consider themselves to be the “world’s largest.” They aren’t all verified, some are outright wrong, but each makes its claim with the gusto of a carnival barker. This week, Chris brings in some of the world’s largest roadside attractions, while Gavin and Leah play a game to guess where they are. (Hint: Things get heated.)</p>
+
+<p>Don’t forget to follow on Facebook, Instagram, and Twitter!<br />
+https://www.facebook.com/thisstrangeworldpodcast/<br />
+https://www.instagram.com/thisstrangeworldpodcast/<br />
+https://twitter.com/thisstrangepod/</p>
+
+<p>And check out more This Strange World links here: https://linktr.ee/thisstrangeworldpodcast</p>
+
+<h1 id="sources">Sources</h1>
+<p>https://blog.batchgeo.com/worlds-largest-roadside-attractions/</p>
+
+]]></description>
+            <itunes:duration>2640</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2021/08/23/Largest-Things-on-Earth/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason1.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>23</itunes:episode>
+			<itunes:season>2</itunes:season>
+            
+        </item>
+        <item>
             <title>Parody Religion: The Birth of the Flying Spaghetti Monster</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S2_22_Parody-Religion.mp3' length='60868193' type='audio/mpeg'/>
 			<guid>2021-08-16-Parody-Religion</guid>
