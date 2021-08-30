@@ -21,6 +21,35 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>The Power of Nostalgia</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S2_24_The-Power-of-Nostalgia.mp3' length='59544736' type='audio/mpeg'/>
+			<guid>2021-08-30-The-Power-of-Nostalgia</guid>
+            <pubDate>Mon, 30 Aug 2021 06:00:00 -0400</pubDate>
+            <description><![CDATA[<p>For our Season 2 finale, Gavin, Leah, and Chris look back on Season 2, get nostalgic for their childhoods, learn about the science of nostalgia, and more! (Hint: You do not want to miss this one!)</p>
+
+<p>Don’t forget to follow on Facebook, Instagram, and Twitter!<br />
+https://www.facebook.com/thisstrangeworldpodcast/<br />
+https://www.instagram.com/thisstrangeworldpodcast/<br />
+https://twitter.com/thisstrangepod/</p>
+
+<p>And check out more This Strange World links here: https://linktr.ee/thisstrangeworldpodcast</p>
+
+<h1 id="sources">Sources</h1>
+<p>https://www.womenshealthmag.com/life/g28471716/things-only-90s-kids-remember/<br />
+https://www.buzzfeed.com/briangalindo/90s-kids-things-that-are-nothing-but-good-memories<br />
+https://www.bustle.com/wellness/ways-nostalgia-changes-your-brain-according-to-science-12062453</p>
+
+]]></description>
+            <itunes:duration>2480</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2021/08/30/The-Power-of-Nostalgia/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason1.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>24</itunes:episode>
+			<itunes:season>2</itunes:season>
+            
+        </item>
+        <item>
             <title>Does Size Matter?: World’s Largest Roadside Attractions</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S2_23_Largest-Things-on-Earth.mp3' length='63408867' type='audio/mpeg'/>
 			<guid>2021-08-23-Largest-Things-on-Earth</guid>
