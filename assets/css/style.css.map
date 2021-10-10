@@ -3,12 +3,12 @@
 	"file": "style.css",
 	"sources": [
 		"style.scss",
-		"../../../../mingw64/lib/ruby/gems/2.7.0/bundler/gems/minima-49f6dce0727a/_sass/minima/skins/dark.scss",
-		"../../../../mingw64/lib/ruby/gems/2.7.0/bundler/gems/minima-49f6dce0727a/_sass/minima/initialize.scss",
-		"../../../../mingw64/lib/ruby/gems/2.7.0/bundler/gems/minima-49f6dce0727a/_sass/minima/custom-variables.scss",
-		"../../../../mingw64/lib/ruby/gems/2.7.0/bundler/gems/minima-49f6dce0727a/_sass/minima/_base.scss",
-		"../../../../mingw64/lib/ruby/gems/2.7.0/bundler/gems/minima-49f6dce0727a/_sass/minima/_layout.scss",
-		"../../../../mingw64/lib/ruby/gems/2.7.0/bundler/gems/minima-49f6dce0727a/_sass/minima/custom-styles.scss"
+		"../../../../../mingw64/lib/ruby/gems/3.0.0/bundler/gems/minima-49f6dce0727a/_sass/minima/skins/dark.scss",
+		"../../../../../mingw64/lib/ruby/gems/3.0.0/bundler/gems/minima-49f6dce0727a/_sass/minima/initialize.scss",
+		"../../../../../mingw64/lib/ruby/gems/3.0.0/bundler/gems/minima-49f6dce0727a/_sass/minima/custom-variables.scss",
+		"../../../../../mingw64/lib/ruby/gems/3.0.0/bundler/gems/minima-49f6dce0727a/_sass/minima/_base.scss",
+		"../../../../../mingw64/lib/ruby/gems/3.0.0/bundler/gems/minima-49f6dce0727a/_sass/minima/_layout.scss",
+		"../../../../../mingw64/lib/ruby/gems/3.0.0/bundler/gems/minima-49f6dce0727a/_sass/minima/custom-styles.scss"
 	],
 	"sourcesContent": [
 		"@import\n  \"minima/skins/dark\",\n  \"minima/initialize\";\n",
