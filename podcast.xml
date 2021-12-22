@@ -21,6 +21,39 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Fall From 33,330 Feet: Vesna Vulović</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S3_02_Fall-From-33330-Feet.mp3' length='36264209' type='audio/mpeg'/>
+			<guid>2021-12-22-Fall-From-33330-Feet</guid>
+            <pubDate>Wed, 22 Dec 2021 10:30:00 -0500</pubDate>
+            <description><![CDATA[<p>For our second episode in our Bizarre Experiences season, we are going to talk about Vesna Vulović, a Serbian flight attendant who holds the Guinness world record for surviving the highest fall without a parachute, just about 33,330 feet out of the sky.</p>
+
+<p>Don’t forget to follow on Facebook, Instagram, and Twitter!<br />
+https://www.facebook.com/thisstrangeworldpodcast/<br />
+https://www.instagram.com/thisstrangeworldpodcast/<br />
+https://twitter.com/thisstrangepod/</p>
+
+<p>And check out more This Strange World links here: https://linktr.ee/thisstrangeworldpodcast</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+
+<h1 id="sources">Sources</h1>
+<p>https://en.wikipedia.org/wiki/Vesna_Vulovi%C4%87<br />
+https://www.youtube.com/watch?v=lVzpdehnd_o<br />
+https://www.forbes.com/sites/stevensalzberg/2012/05/06/falling-300-feet-onto-a-rock-and-surviving-to-tell-the-tale/?sh=4bcc68224f2d</p>
+
+]]></description>
+            <itunes:duration>1510</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2021/12/22/Fall-From-33330-Feet/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason3.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>2</itunes:episode>
+			<itunes:season>3</itunes:season>
+            
+        </item>
+        <item>
             <title>The (Un)Luckiest Man: Frane Selak</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S3_01_The-UnLuckiest-Man.mp3' length='43229128' type='audio/mpeg'/>
 			<guid>2021-12-15-The-UnLuckiest-Man</guid>
