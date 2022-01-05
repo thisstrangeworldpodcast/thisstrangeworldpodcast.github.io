@@ -21,6 +21,38 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>The Man Who Survived Two Atomic Bombings: Tsutomu Yamaguchi</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S3_04_Nuke-Survivor.mp3' length='50781066' type='audio/mpeg'/>
+			<guid>2022-01-05-Nuke-Survivor</guid>
+            <pubDate>Wed, 05 Jan 2022 02:00:00 -0500</pubDate>
+            <description><![CDATA[<p>For our fourth episode in our Bizarre Experiences season, we’re talking about Tsutomu Yamaguchi, a Japanese marine engineer who survived both the Hiroshima and Nagasaki atomic bombings during World War II.</p>
+
+<p>Don’t forget to follow on Facebook, Instagram, and Twitter!<br />
+https://www.facebook.com/thisstrangeworldpodcast/<br />
+https://www.instagram.com/thisstrangeworldpodcast/<br />
+https://twitter.com/thisstrangepod/</p>
+
+<p>And check out more This Strange World links here: https://linktr.ee/thisstrangeworldpodcast</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+
+<h1 id="sources">Sources</h1>
+<p>https://www.history.com/news/the-man-who-survived-two-atomic-bombs<br />
+https://en.wikipedia.org/wiki/Tsutomu_Yamaguchi</p>
+
+]]></description>
+            <itunes:duration>2115</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2022/01/05/Nuke-Survivor/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason3.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>4</itunes:episode>
+			<itunes:season>3</itunes:season>
+            
+        </item>
+        <item>
             <title>Human Lightning Rod: Roy Sullivan</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S3_03_Human-Lightning-Rod.mp3' length='45382429' type='audio/mpeg'/>
 			<guid>2021-12-29-Human-Lightning-Rod</guid>
