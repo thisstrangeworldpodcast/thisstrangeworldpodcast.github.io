@@ -21,6 +21,37 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Lost in the Outback: Ricky Megee</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S3_05_Lost-in-the-Outback.mp3' length='46818542' type='audio/mpeg'/>
+			<guid>2022-01-12-Lost-in-the-Outback</guid>
+            <pubDate>Wed, 12 Jan 2022 04:00:00 -0500</pubDate>
+            <description><![CDATA[<p>For our fifth episode in our Bizarre Experiences season, we’re talking about Ricky Megee, an Australian who is most notable for having been stranded in the Outback and surviving for 71 days in 2006.</p>
+
+<p>Don’t forget to follow on Facebook, Instagram, and Twitter!<br />
+https://www.facebook.com/thisstrangeworldpodcast/<br />
+https://www.instagram.com/thisstrangeworldpodcast/<br />
+https://twitter.com/thisstrangepod/</p>
+
+<p>And check out more This Strange World links here: https://linktr.ee/thisstrangeworldpodcast</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+
+<h1 id="sources">Sources</h1>
+<p>https://en.wikipedia.org/wiki/Ricky_Megee</p>
+
+]]></description>
+            <itunes:duration>1950</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2022/01/12/Lost-in-the-Outback/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason3.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>5</itunes:episode>
+			<itunes:season>3</itunes:season>
+            
+        </item>
+        <item>
             <title>The Man Who Survived Two Atomic Bombings: Tsutomu Yamaguchi</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S3_04_Nuke-Survivor.mp3' length='50782523' type='audio/mpeg'/>
 			<guid>2022-01-05-Nuke-Survivor</guid>
