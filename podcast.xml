@@ -21,6 +21,39 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>American Crowbar Case: Phineas Gage</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S3_07_American-Crowbar-Case.mp3' length='59372669' type='audio/mpeg'/>
+			<guid>2022-01-26-American-Crowbar-Case</guid>
+            <pubDate>Wed, 26 Jan 2022 02:00:00 -0500</pubDate>
+            <description><![CDATA[<p>For our seventh episode in our Bizarre Experiences season, we’re talking about Phineas Gage, an American railroad construction foreman remembered for his improbable survival of an accident in which a large iron rod was driven completely through his head, destroying much of his brain’s left frontal lobe.</p>
+
+<p>Don’t forget to follow on Facebook, Instagram, and Twitter!<br />
+https://www.facebook.com/thisstrangeworldpodcast/<br />
+https://www.instagram.com/thisstrangeworldpodcast/<br />
+https://twitter.com/thisstrangepod/</p>
+
+<p>And check out more This Strange World links here: https://linktr.ee/thisstrangeworldpodcast</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+
+<h1 id="sources">Sources</h1>
+<p>https://www.verywellmind.com/phineas-gage-2795244<br />
+https://www.npr.org/sections/health-shots/2017/05/21/528966102/why-brain-scientists-are-still-obsessed-with-the-curious-case-of-phineas-gage<br />
+https://en.wikipedia.org/wiki/Phineas_Gage</p>
+
+]]></description>
+            <itunes:duration>2473</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2022/01/26/American-Crowbar-Case/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason3.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>7</itunes:episode>
+			<itunes:season>3</itunes:season>
+            
+        </item>
+        <item>
             <title>76 Days Adrift: Steven Callahan</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S3_06_76-Days-Adrift.mp3' length='59667872' type='audio/mpeg'/>
 			<guid>2022-01-19-76-Days-Adrift</guid>
