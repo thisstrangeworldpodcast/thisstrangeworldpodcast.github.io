@@ -21,6 +21,38 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Queen of Sinking Ships: Violet Jessop</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S3_08_Queen-of-Sinking-Ships.mp3' length='59825170' type='audio/mpeg'/>
+			<guid>2022-02-02-Queen-of-Sinking-Ships</guid>
+            <pubDate>Wed, 02 Feb 2022 00:10:00 -0500</pubDate>
+            <description><![CDATA[<p>For our eighth episode in our Bizarre Experiences season, we’re talking about Violet Jessop, an Argentinian ocean liner stewardess and nurse, who is known for surviving the sinkings of the RMS Titanic in 1912 and her sister ship, the HMHS Britannic, in 1916.</p>
+
+<p>Don’t forget to follow on Facebook, Instagram, and Twitter!<br />
+https://www.facebook.com/thisstrangeworldpodcast/<br />
+https://www.instagram.com/thisstrangeworldpodcast/<br />
+https://twitter.com/thisstrangepod/</p>
+
+<p>And check out more This Strange World links here: https://linktr.ee/thisstrangeworldpodcast</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+
+<h1 id="sources">Sources</h1>
+<p>https://nomadflag.com/violet-jessop/<br />
+https://en.wikipedia.org/wiki/Violet_Jessop</p>
+
+]]></description>
+            <itunes:duration>2492</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2022/02/02/Queen-of-Sinking-Ships/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason3.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>8</itunes:episode>
+			<itunes:season>3</itunes:season>
+            
+        </item>
+        <item>
             <title>American Crowbar Case: Phineas Gage</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S3_07_American-Crowbar-Case.mp3' length='59372669' type='audio/mpeg'/>
 			<guid>2022-01-26-American-Crowbar-Case</guid>
