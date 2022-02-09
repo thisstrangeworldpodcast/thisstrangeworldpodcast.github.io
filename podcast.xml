@@ -21,6 +21,39 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>What Are The Odds: Stefan Mandel</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S3_09_What-Are-The-Odds.mp3' length='69140644' type='audio/mpeg'/>
+			<guid>2022-02-09-What-Are-The-Odds</guid>
+            <pubDate>Wed, 09 Feb 2022 00:45:00 -0500</pubDate>
+            <description><![CDATA[<p>For our ninth and final episode in our Bizarre Experiences season, we’re talking about Stefan Mandel, a mathematician who was able to legally win the lottery 11 times.</p>
+
+<p>Don’t forget to follow on Facebook, Instagram, and Twitter!<br />
+https://www.facebook.com/thisstrangeworldpodcast/<br />
+https://www.instagram.com/thisstrangeworldpodcast/<br />
+https://twitter.com/thisstrangepod/</p>
+
+<p>And check out more This Strange World links here: https://linktr.ee/thisstrangeworldpodcast</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+
+<h1 id="sources">Sources</h1>
+<p>https://www.youtube.com/watch?v=eOX7acjkGv0<br />
+https://www.fool.com/slideshow/25-things-more-likely-happen-you-winning-lottery/<br />
+https://www.washingtonpost.com/history/2019/03/27/he-won-lottery-times-using-math-his-biggest-jackpot-still-came-down-luck/</p>
+
+]]></description>
+            <itunes:duration>2880</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2022/02/09/What-Are-The-Odds/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason3.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>9</itunes:episode>
+			<itunes:season>3</itunes:season>
+            
+        </item>
+        <item>
             <title>Queen of Sinking Ships: Violet Jessop</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S3_08_Queen-of-Sinking-Ships.mp3' length='59825170' type='audio/mpeg'/>
 			<guid>2022-02-02-Queen-of-Sinking-Ships</guid>
