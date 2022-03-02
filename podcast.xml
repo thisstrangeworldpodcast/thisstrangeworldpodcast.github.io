@@ -21,6 +21,38 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Cinder Woman: Mary Reeser</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S3_10_Cinder-Woman.mp3' length='56417388' type='audio/mpeg'/>
+			<guid>2022-03-02-Cinder-Woman</guid>
+            <pubDate>Wed, 02 Mar 2022 00:45:00 -0500</pubDate>
+            <description><![CDATA[<p>For our first bonus episode in our Bizarre Experiences season, we’re talking about Mary Reeser, a woman whose death was purported to be a case of spontaneous human combustion.</p>
+
+<p>Don’t forget to follow on Facebook, Instagram, and Twitter!<br />
+https://www.facebook.com/thisstrangeworldpodcast/<br />
+https://www.instagram.com/thisstrangeworldpodcast/<br />
+https://twitter.com/thisstrangepod/</p>
+
+<p>And check out more This Strange World links here: https://linktr.ee/thisstrangeworldpodcast</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+
+<h1 id="sources">Sources</h1>
+<p>https://www.tampabay.com/news/florida/2019/10/17/spontaneous-combustion-in-st-petersburg-the-curious-case-of-mary-reeser/<br />
+https://en.wikipedia.org/wiki/Mary_Reeser</p>
+
+]]></description>
+            <itunes:duration>2350</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2022/03/02/Cinder-Woman/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason3.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>10</itunes:episode>
+			<itunes:season>3</itunes:season>
+            
+        </item>
+        <item>
             <title>What Are The Odds: Stefan Mandel</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S3_09_What-Are-The-Odds.mp3' length='69140644' type='audio/mpeg'/>
 			<guid>2022-02-09-What-Are-The-Odds</guid>
