@@ -21,6 +21,44 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Cryptids: Aliens</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S4_02_Cryptids-Aliens.mp3' length='48623864' type='audio/mpeg'/>
+			<guid>2022-07-13-Cryptids-Aliens</guid>
+            <pubDate>Wed, 13 Jul 2022 02:30:00 -0400</pubDate>
+            <description><![CDATA[<p>For our second episode in our Cryptids season, we’re going to talk about alien cryptids! Aliens are creatures from space, or any living creatures that are not originally from Earth. They could be anything from simple bacteria to intelligent life.</p>
+
+<p>For a cryptid to fall under this category, they typically have to fit at least one of the following descriptions: the ability to speak, and confirms through its dialogue that it is of extraterrestrial origin; is generally thought of as an alien, or has an appearance or traits similar to that of known Alien Cryptids; visit earth in spaceships or flying discs; the witness(es) that saw the cryptid claim it was or refer to it as an alien. (Hint: Something that without a doubt exists in one of those galaxies from the new NASA pics.)</p>
+
+<p>Don’t forget to follow on Facebook, Instagram, and Twitter!<br />
+https://www.facebook.com/thisstrangeworldpodcast/<br />
+https://www.instagram.com/thisstrangeworldpodcast/<br />
+https://twitter.com/thisstrangepod/</p>
+
+<p>And check out more This Strange World links here: https://linktr.ee/thisstrangeworldpodcast</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+
+<h1 id="sources">Sources</h1>
+<p>https://www.merriam-webster.com/dictionary/cryptid<br />
+https://cryptidz.fandom.com/wiki/Category:Aliens<br />
+https://cryptidz.fandom.com/wiki/Chupacabra<br />
+https://cryptidz.fandom.com/wiki/Fresno_Nightcrawler<br />
+https://cryptidz.fandom.com/wiki/Wanderlight<br />
+https://www.youtube.com/watch?v=fhaMrCUDhjk</p>
+
+]]></description>
+            <itunes:duration>2025</itunes:duration>
+            <link>https://www.thisstrangeworldpodcast.com/2022/07/13/Cryptids-Aliens/</link>
+			<itunes:image href='https://www.thisstrangeworldpodcast.com/assets/CoverArtSeason4.jpg'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>2</itunes:episode>
+			<itunes:season>4</itunes:season>
+            
+        </item>
+        <item>
             <title>Cryptids: Humanoids</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/TSW_S4_01_Cryptids-Humanoids.mp3' length='49819342' type='audio/mpeg'/>
 			<guid>2022-07-06-Cryptids-Humanoids</guid>
@@ -45,8 +83,7 @@ Check out more podcasts on our website https://hightops.media</p>
 https://cryptidz.fandom.com/wiki/Category:Humanoids<br />
 https://cryptidz.fandom.com/wiki/Deer_Man<br />
 https://cryptidz.fandom.com/wiki/Ningen<br />
-https://cryptidz.fandom.com/wiki/Cherufe
-d</p>
+https://cryptidz.fandom.com/wiki/Cherufe</p>
 
 ]]></description>
             <itunes:duration>2075</itunes:duration>
