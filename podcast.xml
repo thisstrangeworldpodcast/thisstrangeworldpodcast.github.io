@@ -2,9 +2,9 @@
 <rss version='2.0' xmlns:content='http://purl.org/rss/1.0/modules/content/' xmlns:itunes='http://www.itunes.com/dtds/podcast-1.0.dtd'>
     <channel>
         <language>en-US</language>
-        <copyright>Copyright 2022 High Tops Media &amp; Gavin Berger, Leah Ettinger, and Chris Ashe</copyright>
+        <copyright>Copyright 2020-2022 Gavin Berger, Leah Ettinger, and Chris Ashe</copyright>
         <title>This Strange World</title>
-        <description><![CDATA[<p>The world is a strange place. From creepy conspiracy theories, to weird laws, to terrifying cults, this podcast explores them all. Each week, one of our hosts takes a deep dive into a strange, weird, and random topic, and discusses what they found with the other hosts.</p> <p>Gavin, Leah, and Chris are three college students who started This Strange World as a project for class, but became so interested in learning more about strange topics that they decided to make it for real. Join them on their journey as they try to make sense of This Strange World.</p>
+        <description><![CDATA[<p>The world is a strange place. From creepy conspiracy theories, to weird laws, to terrifying cults, this podcast explores them all. Each week, one of our hosts takes a deep dive into a strange, weird, and random topic, and discusses what they found with the other hosts.</p> <p>Gavin, Leah, and Chris are three friends from college who started This Strange World as a project for class, but became so interested in learning more about strange topics that they decided to make it for real. Join them on their journey as they try to make sense of This Strange World.</p> <p>Made in affiliation with High Tops Media</p>
 ]]></description>
         <link>https://www.thisstrangeworldpodcast.com/</link>
 		
@@ -12,7 +12,7 @@
         
 		<itunes:category text='Society &amp; Culture'/>
 		
-		<itunes:author>High Tops Media &amp; Gavin Berger, Leah Ettinger, and Chris Ashe</itunes:author>
+		<itunes:author>Gavin Berger, Leah Ettinger, and Chris Ashe</itunes:author>
         <itunes:owner>
             <itunes:name>This Strange World Podcast Administrator</itunes:name>
             <itunes:email>admin@thisstrangeworldpodcast.com</itunes:email>
